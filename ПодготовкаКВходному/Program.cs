@@ -2,6 +2,7 @@
 using System.ComponentModel.Design;
 using System.Net.Http.Headers;
 using System.Net.WebSockets;
+using System.Security.Cryptography;
 
 namespace ПодготовкаКВходному
 {
@@ -91,38 +92,22 @@ namespace ПодготовкаКВходному
             int second = 1;
             int third = first + second;
             Console.WriteLine("Числа фибоначи:");
-            if (qantity == 1)
+            for (int i = 0; i <= qantity; i++)
             {
-                Console.WriteLine(first);
-            }
-            else if (qantity == 2)
-            {
-                Console.WriteLine(first);
-                Console.WriteLine(second);
-            }
-            else if (qantity == 3)
-            {
-                Console.WriteLine(first);
-                Console.WriteLine(second);
-                Console.WriteLine(third);
-            }
-            else
-            {
-                Console.WriteLine(first);
-                Console.WriteLine(second);
-                Console.WriteLine(third);
-                while (qantity != 0)
+                if (i == 0)
                 {
+                    Console.WriteLine($"{i}. {first}");
+                }
+                else if (i%2 ==0 && i!=0) {
+                    Console.WriteLine($"{i}. {third}");
+                }
                     first = second;
                     second = third;
                     third = first + second;
-                    Console.WriteLine(third);
-                    qantity--;
-                }
             }
 
-            //задание 7. 
-            Console.WriteLine("\r\nЗадание 7. Пользователь вводит число n с клавиатуры. Используя оператор цикла\r\nнеобходимо вычислить сумму первых n членов следующей\r\nпоследовательности: 1/2 + 2/3 + 3/4 + ...");
+                //задание 7. 
+                Console.WriteLine("\r\nЗадание 7. Пользователь вводит число n с клавиатуры. Используя оператор цикла\r\nнеобходимо вычислить сумму первых n членов следующей\r\nпоследовательности: 1/2 + 2/3 + 3/4 + ...");
             Console.Write("Введите количество чисел: ");
             int qantity7 = Convert.ToInt32(Console.ReadLine());
             double chislitel = 1;
