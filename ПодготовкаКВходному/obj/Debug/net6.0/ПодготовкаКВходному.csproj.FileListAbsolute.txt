@@ -1,0 +1,14 @@
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\bin\Debug\net6.0\ПодготовкаКВходному.exe
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\bin\Debug\net6.0\ПодготовкаКВходному.deps.json
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\bin\Debug\net6.0\ПодготовкаКВходному.runtimeconfig.json
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\bin\Debug\net6.0\ПодготовкаКВходному.dll
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\bin\Debug\net6.0\ПодготовкаКВходному.pdb
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.AssemblyInfo.cs
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.dll
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\refint\ПодготовкаКВходному.dll
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.pdb
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ПодготовкаКВходному.genruntimeconfig.cache
+C:\Users\Katya\source\repos\ПодготовкаКВходному\ПодготовкаКВходному\obj\Debug\net6.0\ref\ПодготовкаКВходному.dll
